@@ -5,7 +5,7 @@ Many Twitter friends are talking about sample code, and I think [*Processing*](h
 
 This code has been tested on Processing 3.5.4 (Windows 10 (nVIDIA GPU) and MacOS Big Sur (MBP 2016 with Intel Iris)).
 
-<img src="neko_dots.png" alt="Input" width=384/> | <img src="hokusai_dots.png" alt="Input" width=384/> 
+[![input](neko_dots.png)](neko_dots_moving.mp4 "Input moving") | <img src="hokusai_dots.png" alt="Input" width=384/> 
 :---: | :---: 
 *Original atoMeow Moving Stipples on Twitter* | *My Fav. Hokusai* 
 
